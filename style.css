@@ -1101,7 +1101,7 @@ input[type="checkbox"]:checked::after {
   }
 
   .banner {
-    /*top: -125px;*/
+    margin-top: -125px;
   }
 
 .img-sale {
